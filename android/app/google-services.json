@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "227856962795",
+    "project_id": "gauth-bf709",
+    "storage_bucket": "gauth-bf709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227856962795:android:0f7895016d861fc37c9aae",
+        "android_client_info": {
+          "package_name": "com.example.goglee__auth__"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227856962795-2o60h0chrl5qpvqaa25099ujd5bksp2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goglee__auth__",
+            "certificate_hash": "70fa8cb59e621fbd536b36985b1021b5057855a7"
+          }
+        },
+        {
+          "client_id": "227856962795-hib5vnb9vfa48k62893cmce516m4idir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO6mJOwo_1iqqwScM116evXxDWsXFMozs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227856962795-hib5vnb9vfa48k62893cmce516m4idir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
